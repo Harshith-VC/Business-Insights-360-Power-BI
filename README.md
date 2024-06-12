@@ -10,6 +10,19 @@ The Business Insights 360 Power BI dashboard is a robust tool designed to provid
 4. **Supply Chain View:** Optimization metrics for efficient supply chain management.
 5. **Executive View:** Key metrics for top-level decision-makers.
 
+## Business Terminology
+
+- Gross price
+- Pre-invoice deductions
+- Post-invoice deductions
+- Net Invoice sale
+- Gross Margin
+- Net sales
+- Net profit
+- COGS - Cost of goods sold
+- YTD - Year to Date
+- YTG - Year to Go
+
 ### Live Dashboard
 Take a tour of the [live](https://app.powerbi.com/view?r=eyJrIjoiYWU1YjVjZmYtMGQ2OC00MzU4LWEyZWUtYTJjYjNkMDVhY2I3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) dashboard 
 
